@@ -301,7 +301,7 @@ section {
 
 
 .thumbnail {
-  max-width: 60%;
+  max-width: 24%;
       /*display: block;*/
  /*   margin: 0 auto;*/
 }
@@ -337,6 +337,8 @@ section {
   /** Unhide lightbox **/
   display: block;
 }
+
+/*GRID*/
 
 
 
